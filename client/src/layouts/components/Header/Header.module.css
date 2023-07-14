@@ -1,0 +1,98 @@
+.wrapper {
+  --search-height: 50px;
+  --search-top-spacer: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+  height: var(--default-layout-header-heigh);
+  background-color: var(--while);
+  -webkit-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px;
+          box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.inner {
+  height: 100%;
+  width: var(--default-layout-width);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: relative;
+  padding: 0 var(--default-layout-horizontal-spacer);
+}
+
+.div_logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  min-width: 300px;
+  align-items: center;
+  max-width: 1150px;
+  position: relative;
+}
+
+.logo {
+  width: 145px;
+  height: 67px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.login {
+  min-width: 271px;
+  height: 36px;
+}
+
+.actions {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.more-btn {
+  font-size: 2rem;
+  margin-left: 28px;
+  padding: 4px 8px;
+  background-color: transparent;
+}
+
+.action-btn {
+  font-size: 2.2rem;
+  background-color: transparent;
+  color: #161823;
+  padding: 4px 12px;
+  cursor: pointer;
+}
+
+.user-avatar {
+  width: 32px;
+  height: 32px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+  margin: 0 12px 0 12px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=Header.module.css.map */

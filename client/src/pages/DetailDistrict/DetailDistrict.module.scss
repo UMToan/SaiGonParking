@@ -1,0 +1,125 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    background-color: #f0f2f5;
+}
+
+.container {
+    padding: 0 var(--default-layout-horizontal-spacer);
+    margin-top: var(--default-layout-header-heigh);
+    width: 100%;
+}
+
+.header-content {
+    flex: 1;
+    padding: 10px 0px 16px 0px;
+    margin: auto 50px auto 50px;
+}
+
+.home-link {
+    font-size: 18px;
+    &:hover {
+        color: var(--primary);
+    }
+    span {
+        padding: 0 5px 0 5px;
+    }
+}
+
+.slide-show {
+    height: 100px;
+    width: 100%;
+}
+
+.each-slide-effect > div {
+    height: 350px;
+    background-size: contain;
+}
+
+.content {
+    margin-top: 10px;
+
+    display: flex;
+    width: 100%;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    margin: 10px 0 10px 0;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 15px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.info-parking {
+    font-size: 20px;
+    width: 600px;
+    .info-detail-parking {
+        padding: 3px 0px 5px 10px;
+    }
+
+    .heading-info {
+        display: flex;
+        justify-content: center;
+    }
+
+    ul {
+        list-style: none;
+    }
+}
+
+.form-parking {
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 15px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.price-parking {
+    margin-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 15px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.space {
+    width: 1px;
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
+.slot-parking {
+    width: 100%;
+    margin-left: 10px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 15px;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 0px 20px 0px 20px;
+}
+
+.title-slot-parking {
+    display: flex;
+    justify-content: center;
+}
+
+.area-parking {
+    margin: 10px;
+}
+
+//model
+.active-modal {
+    overflow-y: hidden;
+}
+
+.btn-modal {
+    padding: 10px 20px;
+    display: block;
+    margin: 100px auto 0;
+    font-size: 18px;
+}
+
+.btn-submit-parkingSlot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

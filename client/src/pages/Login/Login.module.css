@@ -1,0 +1,136 @@
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: -webkit-gradient(linear, left top, left bottom, from(0), color-stop(#e0d8cc), to(#fe2c55));
+  background: linear-gradient(0, #e0d8cc, #fe2c55);
+}
+
+.container {
+  width: 400px;
+  height: 550px;
+  margin: 0 auto;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--while);
+}
+
+.login-from {
+  height: 500px;
+}
+
+.register-from {
+  height: 520px;
+}
+
+.title-login {
+  text-align: center;
+  font-size: 27px;
+  font-weight: 700;
+  padding: 20px 0;
+}
+
+.forgot-pass {
+  font-size: 13px;
+  font-weight: 400;
+  padding-left: 10px;
+}
+
+.btn-login {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 5px 10px;
+}
+
+.option-from {
+  border-top: 1px solid rgba(22, 24, 35, 0.12);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 50px;
+}
+
+.title-referentLogin {
+  text-align: center;
+}
+
+.referent-login {
+  height: 50px;
+  width: 100%;
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.referent-login span {
+  margin: 0 10px;
+}
+
+.referent-login .google {
+  height: 50px;
+}
+
+.referent-login .facebook {
+  height: 50px;
+}
+
+.login-options {
+  margin-left: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.login-options .span {
+  width: 2px;
+  height: 14px;
+  margin: 5px 12px;
+  background: rgba(22, 24, 35, 0.12);
+}
+
+.login-options .sign-up {
+  color: var(--primary);
+}
+
+.container-register {
+  width: 400px;
+  height: 570px;
+  margin: 0 auto;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--while);
+}
+/*# sourceMappingURL=Login.module.css.map */

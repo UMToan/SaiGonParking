@@ -1,0 +1,45 @@
+.wrapper {
+    width: 356px;
+    padding: 20px 0 26px 0px;
+    overflow: auto;
+    position: fixed;
+    height: 100vh;
+}
+
+.not-active-link {
+    color: var(--text-color);
+}
+
+.active-link {
+    color: var(--primary);
+}
+
+.my-nav-link {
+    color: var(--text-color);
+}
+
+.menu-item {
+    display: block;
+    font-size: 1.8rem;
+    padding: 8px 8px 18px 8px;
+    font-weight: 700;
+    align-items: center;
+    border-radius: 4px;
+    transition: background-color ease-in-out 200ms;
+    color: var(--text-color);
+    &.active {
+        color: var(--primary);
+    }
+    &:hover {
+        background-color: rgba(22, 24, 35, 0.03);
+    }
+}
+.icon-menuItem {
+    width: 3.2rem;
+    height: 3.2rem;
+    fill: currentColor;
+}
+
+.title {
+    margin-left: 10px;
+}

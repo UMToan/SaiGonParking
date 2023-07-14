@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    width: var(--default-layout-width);
+    padding: 0 var(--default-layout-horizontal-spacer);
+    max-width: 100%;
+    display: flex;
+    margin-top: var(--default-layout-header-heigh);
+}
+
+.content {
+    flex: 1;
+    padding: 20px 0px 26px 0px;
+    margin-left: 356px;
+}
+
+.content-header,
+.main-content {
+    padding-left: 10px;
+}

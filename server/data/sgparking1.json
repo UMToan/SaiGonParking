@@ -1,0 +1,4353 @@
+{
+  "body": [
+    {
+      "overview": {
+        "khuvuc": [
+          {
+            "MaKhuVuc": "Q1",
+            "tenkhuvuc": "Quan 1"
+          }
+        ]
+      },
+      "baixe1": {
+        "baixe": [
+          {
+            "MaKhuVuc": "Q1",
+            "TenBaiXe": "Vincom Center",
+            "ViTriBaiXe": "72 Lê Thánh Tôn, 47 Lý Tự Trọng, Quận 1",
+            "SDTBaiXe": "363397844"
+          }
+        ]
+      },
+      "phieu1": {
+        "phieu": [
+          {
+            "MaPhieu": "18000Q1",
+            "MaViTriGuiXe": "Q1A1",
+            "BienSoXe": "70A327291",
+            "MaHinhThuc": "GXNg",
+            "idUser": "072202004815",
+            "NgayGuiXe": "2023-03-25"
+          },
+          {
+            "MaPhieu": "18001Q1",
+            "MaViTriGuiXe": "Q1A1",
+            "BienSoXe": "77C419976",
+            "MaHinhThuc": "GXLi",
+            "idUser": "072202004815",
+            "NgayGuiXe": "2023-03-25"
+          },
+          {
+            "MaPhieu": "18002Q2",
+            "MaViTriGuiXe": "Q1B1",
+            "BienSoXe": "59E198921",
+            "MaHinhThuc": "GXTu",
+            "idUser": "072200000111",
+            "NgayGuiXe": "2023-03-18"
+          },
+          {
+            "MaPhieu": "18003Q2",
+            "MaViTriGuiXe": "Q2C1",
+            "BienSoXe": "70E188888",
+            "MaHinhThuc": "GXTh",
+            "idUser": "072200000111",
+            "NgayGuiXe": "2023-02-18"
+          }
+        ]
+      },
+      "hangsx1": {
+        "hangsx": [
+          {
+            "id": "1",
+            "TenHangSX": "Honda"
+          },
+          {
+            "id": "2",
+            "TenHangSX": "Toyota"
+          },
+          {
+            "id": "3",
+            "TenHangSX": "Mazda"
+          },
+          {
+            "id": "4",
+            "TenHangSX": "KIA"
+          }
+        ]
+      },
+      "user1": {
+        "user": [
+          {
+            "mail": "isUser@gmail.com",
+            "sdt": "933125512",
+            "matkhau": "123456789user",
+            "diachi": "Sài Gòn",
+            "avatar": "",
+            "role": "1"
+          },
+          {
+            "mail": "isAdmin@gmail.com",
+            "sdt": "363397844",
+            "matkhau": "123456789admin",
+            "diachi": "Tây Ninh",
+            "avatar": "",
+            "role": "2"
+          }
+        ]
+      }
+    },
+    {},
+    {},
+    {},
+    {
+      "banggia1": [
+        {
+          "idBaiXe": "1",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "1",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "1",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "1",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 6 triệu",
+          "Gia": "6000000"
+        },
+        {
+          "idBaiXe": "1",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 60k",
+          "Gia": "60000"
+        },
+        {
+          "idBaiXe": "1",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 310k",
+          "Gia": "310000"
+        },
+        {
+          "idBaiXe": "1",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2triệu 100k",
+          "Gia": "2100000"
+        },
+        {
+          "idBaiXe": "1",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 6triệu 100k",
+          "Gia": "6100000"
+        },
+        {
+          "idBaiXe": "2",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "2",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "2",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "2",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 6 triệu",
+          "Gia": "6000000"
+        },
+        {
+          "idBaiXe": "2",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 60k",
+          "Gia": "60000"
+        },
+        {
+          "idBaiXe": "2",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 310k",
+          "Gia": "310000"
+        },
+        {
+          "idBaiXe": "2",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2triệu 100k",
+          "Gia": "2100000"
+        },
+        {
+          "idBaiXe": "2",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 6triệu 100k",
+          "Gia": "6100000"
+        },
+        {
+          "idBaiXe": "3",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "3",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "3",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "3",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 6 triệu",
+          "Gia": "6000000"
+        },
+        {
+          "idBaiXe": "3",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 60k",
+          "Gia": "60000"
+        },
+        {
+          "idBaiXe": "3",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 310k",
+          "Gia": "310000"
+        },
+        {
+          "idBaiXe": "3",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2triệu 100k",
+          "Gia": "2100000"
+        },
+        {
+          "idBaiXe": "3",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 6triệu 100k",
+          "Gia": "6100000"
+        },
+        {
+          "idBaiXe": "4",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "4",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "4",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "4",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 6 triệu",
+          "Gia": "6000000"
+        },
+        {
+          "idBaiXe": "4",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 60k",
+          "Gia": "60000"
+        },
+        {
+          "idBaiXe": "4",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 310k",
+          "Gia": "310000"
+        },
+        {
+          "idBaiXe": "4",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2triệu 100k",
+          "Gia": "2100000"
+        },
+        {
+          "idBaiXe": "4",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 6triệu 100k",
+          "Gia": "6100000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4 triệu",
+          "Gia": "4000000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 210k",
+          "Gia": "210000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu 100k",
+          "Gia": "1100000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4triệu 100k",
+          "Gia": "4100000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "5",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4 triệu",
+          "Gia": "4000000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 210k",
+          "Gia": "210000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu 100k",
+          "Gia": "1100000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4triệu 100k",
+          "Gia": "4100000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "6",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4 triệu",
+          "Gia": "4000000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 210k",
+          "Gia": "210000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu 100k",
+          "Gia": "1100000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4triệu 100k",
+          "Gia": "4100000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "7",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4 triệu",
+          "Gia": "4000000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 210k",
+          "Gia": "210000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu 100k",
+          "Gia": "1100000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4triệu 100k",
+          "Gia": "4100000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "8",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4 triệu",
+          "Gia": "4000000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 210k",
+          "Gia": "210000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu 100k",
+          "Gia": "1100000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4triệu 100k",
+          "Gia": "4100000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "9",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4 triệu",
+          "Gia": "4000000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 210k",
+          "Gia": "210000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu 100k",
+          "Gia": "1100000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 4triệu 100k",
+          "Gia": "4100000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "10",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 27k",
+          "Gia": "27000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 190k",
+          "Gia": "190000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "11",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 27k",
+          "Gia": "27000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 190k",
+          "Gia": "190000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "12",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 27k",
+          "Gia": "27000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 190k",
+          "Gia": "190000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "13",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 27k",
+          "Gia": "27000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 190k",
+          "Gia": "190000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "14",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 20k",
+          "Gia": "20000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 150k",
+          "Gia": "150000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 800k",
+          "Gia": "800000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 200k",
+          "Gia": "220000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 7 triệu",
+          "Gia": "7000000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "15",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 20k",
+          "Gia": "20000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 150k",
+          "Gia": "150000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 800k",
+          "Gia": "800000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 200k",
+          "Gia": "220000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 7 triệu",
+          "Gia": "7000000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "16",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 20k",
+          "Gia": "20000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 150k",
+          "Gia": "150000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 800k",
+          "Gia": "800000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 200k",
+          "Gia": "220000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 7 triệu",
+          "Gia": "7000000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "17",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 20k",
+          "Gia": "20000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 150k",
+          "Gia": "150000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 800k",
+          "Gia": "800000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 200k",
+          "Gia": "220000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 7 triệu",
+          "Gia": "7000000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 10k",
+          "Gia": "10000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 50k",
+          "Gia": "50000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "18",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 850k",
+          "Gia": "850000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 300k",
+          "Gia": "230000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "19",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 850k",
+          "Gia": "850000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 300k",
+          "Gia": "230000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "20",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 850k",
+          "Gia": "850000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 300k",
+          "Gia": "230000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "21",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 850k",
+          "Gia": "850000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 300k",
+          "Gia": "230000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "22",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 200k",
+          "Gia": "200000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 850k",
+          "Gia": "850000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 300k",
+          "Gia": "230000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 25k",
+          "Gia": "25000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 180k",
+          "Gia": "180000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "100000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "23",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "24",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "25",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "26",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "27",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "28",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "29",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 40k",
+          "Gia": "40000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 400k",
+          "Gia": "400000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "31",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 7 triệu",
+          "Gia": "7000000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 40k",
+          "Gia": "40000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 400k",
+          "Gia": "400000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "32",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 7 triệu",
+          "Gia": "7000000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 900k",
+          "Gia": "900000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "OT4",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 2triệu 500k",
+          "Gia": "250000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 30k",
+          "Gia": "30000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 300k",
+          "Gia": "300000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 1triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "OT7",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 3triệu 500k",
+          "Gia": "3500000"
+        },
+        {
+          "idBaiXe": "30",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 15k",
+          "Gia": "15000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 55k",
+          "Gia": "55000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 350k",
+          "Gia": "350000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "MT",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 1 triệu",
+          "Gia": "1000000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXLi",
+          "MTGia": "Gửi xe theo lượt - 40k",
+          "Gia": "40000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXNg",
+          "MTGia": "Gửi xe theo ngày - 400k",
+          "Gia": "400000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTu",
+          "MTGia": "Gửi xe theo tuần - 2 triệu",
+          "Gia": "2000000"
+        },
+        {
+          "idBaiXe": "33",
+          "MaLoaiXe": "BU",
+          "MaHinhThuc": "GXTh",
+          "MTGia": "Gửi xe theo tháng - 7 triệu",
+          "Gia": "7000000"
+        }
+      ]
+    },
+    {
+      "hinhthuc1": [
+        {
+          "MaHinhThuc": "GXLi",
+          "TenHinhThuc": "Gửi xe lượt"
+        },
+        {
+          "MaHinhThuc": "GXNg",
+          "TenHinhThuc": "Gửi xe ngày"
+        },
+        {
+          "MaHinhThuc": "GXTu",
+          "TenHinhThuc": "Gửi xe tuần"
+        },
+        {
+          "MaHinhThuc": "GXTh",
+          "TenHinhThuc": "Gửi xe tháng"
+        }
+      ]
+    },
+    {
+      "loaixe1": [
+        {
+          "MaLoaiXe": "MT",
+          "TenHangSX": "Honda",
+          "TenLoaiXe": "Mô-tô"
+        },
+        {
+          "MaLoaiXe": "OT4",
+          "TenHangSX": "Toyota",
+          "TenLoaiXe": "Ôtô bốn chỗ"
+        },
+        {
+          "MaLoaiXe": "OT7",
+          "TenHangSX": "Mazda",
+          "TenLoaiXe": "Ôtô bảy chỗ"
+        },
+        {
+          "MaLoaiXe": "BU",
+          "TenHangSX": "KIA",
+          "TenLoaiXe": "Xe khách"
+        }
+      ]
+    },
+    {
+      "oguixe1": [
+        {
+          "MaViTriGuiXe": "Q1A1",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A2",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A3",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A4",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A5",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A6",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A7",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A8",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A9",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1A10",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q1B1",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B2",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B3",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B4",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B5",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B6",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B7",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B8",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B9",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1B10",
+          "idBaiXe": "2"
+        },
+        {
+          "MaViTriGuiXe": "Q1C1",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C2",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C3",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C4",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C5",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C6",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C7",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C8",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C9",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1C10",
+          "idBaiXe": "3"
+        },
+        {
+          "MaViTriGuiXe": "Q1D1",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D2",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D3",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D14",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D5",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D6",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D7",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D8",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D9",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q1D10",
+          "idBaiXe": "4"
+        },
+        {
+          "MaViTriGuiXe": "Q2A1",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A2",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A3",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A4",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A5",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A6",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A7",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A8",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A9",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2A10",
+          "idBaiXe": "5"
+        },
+        {
+          "MaViTriGuiXe": "Q2B1",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2B2",
+          "idBaiXe": "1"
+        },
+        {
+          "MaViTriGuiXe": "Q2B3",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2B4",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2B5",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2B6",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2B7",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2B8",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2B9",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2B10",
+          "idBaiXe": "6"
+        },
+        {
+          "MaViTriGuiXe": "Q2C1",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C2",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C3",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C4",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C5",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C6",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C7",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C8",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C9",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q2C10",
+          "idBaiXe": "7"
+        },
+        {
+          "MaViTriGuiXe": "Q3A1",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A2",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A3",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A4",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A5",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A6",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A7",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A8",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A9",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3A10",
+          "idBaiXe": "8"
+        },
+        {
+          "MaViTriGuiXe": "Q3B1",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B2",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B3",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B4",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B5",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B6",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B7",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B8",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B9",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3B10",
+          "idBaiXe": "9"
+        },
+        {
+          "MaViTriGuiXe": "Q3C1",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C2",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C3",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C4",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C5",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C6",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C7",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C8",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C9",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q3C10",
+          "idBaiXe": "10"
+        },
+        {
+          "MaViTriGuiXe": "Q5A1",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A2",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A3",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A4",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A5",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A6",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A7",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A8",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A9",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5A10",
+          "idBaiXe": "11"
+        },
+        {
+          "MaViTriGuiXe": "Q5B1",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B2",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B3",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B4",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B5",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B6",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B7",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B8",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B9",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5B10",
+          "idBaiXe": "12"
+        },
+        {
+          "MaViTriGuiXe": "Q5C1",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C2",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C3",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C4",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C5",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C6",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C7",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C8",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C9",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5C10",
+          "idBaiXe": "13"
+        },
+        {
+          "MaViTriGuiXe": "Q5D1",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D2",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D3",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D4",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D5",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D6",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D7",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D8",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D9",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q5D10",
+          "idBaiXe": "14"
+        },
+        {
+          "MaViTriGuiXe": "Q6A1",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A2",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A3",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A4",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A5",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A6",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A7",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A8",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A9",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q6A10",
+          "idBaiXe": "15"
+        },
+        {
+          "MaViTriGuiXe": "Q7A1",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A2",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A3",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A4",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A5",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A6",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A7",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A8",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A9",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7A10",
+          "idBaiXe": "16"
+        },
+        {
+          "MaViTriGuiXe": "Q7B1",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B2",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B3",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B4",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B5",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B6",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B7",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B8",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B9",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7B10",
+          "idBaiXe": "17"
+        },
+        {
+          "MaViTriGuiXe": "Q7C1",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C2",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C3",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C4",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C5",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C6",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C7",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C8",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C9",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q7C10",
+          "idBaiXe": "18"
+        },
+        {
+          "MaViTriGuiXe": "Q10A1",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10A2",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10A3",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10A4",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10A5",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10A6",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10A7",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10A8",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10A9",
+          "idBaiXe": "19"
+        },
+        {
+          "MaViTriGuiXe": "Q10B1",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10B2",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10B3",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10B4",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10B5",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10B6",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10B7",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10B8",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10B9",
+          "idBaiXe": "20"
+        },
+        {
+          "MaViTriGuiXe": "Q10C1",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q10C2",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q10C3",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q10C4",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q10C5",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q10C6",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q10C7",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q10C8",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q10C9",
+          "idBaiXe": "21"
+        },
+        {
+          "MaViTriGuiXe": "Q11A1",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11A2",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11A3",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11A4",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11A5",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11A6",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11A7",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11A8",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11A9",
+          "idBaiXe": "22"
+        },
+        {
+          "MaViTriGuiXe": "Q11B1",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "Q11B2",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "Q11B3",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "Q11B4",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "Q11B5",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "Q11B6",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "Q11B7",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "Q11B8",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "Q11B9",
+          "idBaiXe": "23"
+        },
+        {
+          "MaViTriGuiXe": "BTA1",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA2",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA3",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA4",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA5",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA6",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA7",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA8",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA9",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTA10",
+          "idBaiXe": "24"
+        },
+        {
+          "MaViTriGuiXe": "BTB1",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB2",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB3",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB4",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB5",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB6",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB7",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB8",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB9",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTB10",
+          "idBaiXe": "25"
+        },
+        {
+          "MaViTriGuiXe": "BTC1",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC2",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC3",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC4",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC5",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC6",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC7",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC8",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC9",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTC10",
+          "idBaiXe": "26"
+        },
+        {
+          "MaViTriGuiXe": "BTD1",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD2",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD3",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD4",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD5",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD6",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD7",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD8",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD9",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "BTD10",
+          "idBaiXe": "27"
+        },
+        {
+          "MaViTriGuiXe": "GVA1",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA2",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA3",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA4",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA5",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA6",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA7",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA8",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA9",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVA10",
+          "idBaiXe": "28"
+        },
+        {
+          "MaViTriGuiXe": "GVB1",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB2",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB3",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB4",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB5",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB6",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB7",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB8",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB9",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVB10",
+          "idBaiXe": "29"
+        },
+        {
+          "MaViTriGuiXe": "GVC1",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC2",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC3",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC4",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC5",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC6",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC7",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC8",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC9",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "GVC10",
+          "idBaiXe": "30"
+        },
+        {
+          "MaViTriGuiXe": "PNA1",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA2",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA3",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA4",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA5",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA6",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA7",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA8",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA9",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNA10",
+          "idBaiXe": "31"
+        },
+        {
+          "MaViTriGuiXe": "PNB1",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB2",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB3",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB4",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB5",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB6",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB7",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB8",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB9",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNB10",
+          "idBaiXe": "32"
+        },
+        {
+          "MaViTriGuiXe": "PNC1",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC2",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC3",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC4",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC5",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC6",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC7",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC8",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC9",
+          "idBaiXe": "33"
+        },
+        {
+          "MaViTriGuiXe": "PNC10",
+          "idBaiXe": "33"
+        }
+      ]
+    },
+    {
+      "xe1": [
+        {
+          "BienSoXe": "70A327291",
+          "MaLoaiXe": "MT",
+          "modelXe": "Visition"
+        },
+        {
+          "BienSoXe": "77C419976",
+          "MaLoaiXe": "OT4",
+          "modelXe": "Altis"
+        },
+        {
+          "BienSoXe": "59E198921",
+          "MaLoaiXe": "OT7",
+          "modelXe": "Sorento"
+        },
+        {
+          "BienSoXe": "70E188888",
+          "MaLoaiXe": "BU",
+          "modelXe": "Toyotabus"
+        }
+      ]
+    },
+    {
+      "image1": [
+        {
+          "hinhanh": "http://115toanquoc.com/upload/images/thue-bai-dau-xe-quan8-tphcm(1).jpg"
+        },
+        {
+          "hinhanh": "https://115toanquoc.com/upload/images/1494839402_xe.jpg"
+        },
+        { "hinhanh": "http://115toanquoc.com/upload/images/unnamed%20(1).jpg" },
+        { "hinhanh": "http://115toanquoc.com/upload/images/unnamed%20(1).jpg" },
+        {
+          "hinhanh": "https://static.chotot.com/storage/chotot-kinhnghiem/c2c/2019/11/bai-giu-xe-may-24-24-1.jpg"
+        },
+        {
+          "hinhanh": "https://static.chotot.com/storage/chotot-kinhnghiem/c2c/2019/11/bai-giu-xe-may-24-24-1.jpg"
+        }
+      ]
+    }
+  ]
+}

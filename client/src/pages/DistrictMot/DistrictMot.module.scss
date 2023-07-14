@@ -1,0 +1,25 @@
+/// Quận 1 ///
+.content-one {
+    margin-top: 15px;
+    border-top: 2px solid #fe2c55;
+}
+
+.title {
+    font-size: 20px;
+}
+.title-parking {
+    font-size: 20px;
+    &:hover {
+        color: var(--primary);
+    }
+}
+
+.item-location {
+    display: flex;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.icon-location {
+    margin-right: 5px;
+}
